@@ -1,0 +1,2 @@
+This lesson introduces css transitions, and how you can attach JS event listeners to them in order to trigger actions based on their current state. 
+See https://css-tricks.com/controlling-css-animations-transitions-javascript/ for more info.
